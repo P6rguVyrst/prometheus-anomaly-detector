@@ -1,6 +1,5 @@
 """docstring for packages."""
 import time
-import os
 import logging
 from datetime import datetime
 from multiprocessing import Process, Queue
